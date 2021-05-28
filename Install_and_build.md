@@ -1,4 +1,4 @@
-## Development environment setup
+## Install and build
 
 ##### 1. Virtual machine installation
 ---
