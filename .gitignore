@@ -1,0 +1,22 @@
+*.swp
+
+#build files
+*.o
+*.d
+esp32_src/build
+
+#files changing on every build
+esp32_src/esp_app/fw_version.h
+esp32_src/version.txt
+output/
+
+settings.json
+
+#sdkconfig
+#sdkconfig.old
+
+#certificates
+certs*/
+
+#ctags
+tags
