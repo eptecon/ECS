@@ -1,4 +1,4 @@
-ECS: Electronic Connectivity System (ECS) for wireless connection of sensors and actors with cloud 
+ECS: Electronic Connectivity System (ECS) for wireless connection of sensors and actuators with cloud 
 ======
 
 ECS is a firmware for ESP32 Microcontroller for designing of device to cloud connectivity. It can be used for fast prototyping of connectivity solutions.
